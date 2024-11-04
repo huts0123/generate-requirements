@@ -1,0 +1,6 @@
+ast
+os
+pkg_resources
+tkinter
+tkinter.messagebox
+tkinterdnd2==0.4.2
